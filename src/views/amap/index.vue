@@ -360,6 +360,7 @@ const openMedia = () => {
     height: 35%;
     width: 100%;
     padding: 50px 25px 10px;
+    color: #000;
 
     .avatar {
         position: absolute;
@@ -418,7 +419,11 @@ const openMedia = () => {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 40px;
+    font-size: 60px;
+    color: #fff;
+    -webkit-animation: blank 4s infinite;
+    will-change: transform;
+    animation: blank 4s infinite;
 }
 
 .media-warp {
@@ -517,6 +522,25 @@ const openMedia = () => {
 
     75% {
         transform: translateX(-5px) rotate(-5deg);
+    }
+}
+
+@keyframes blank {
+    0%,
+    100% {
+        opacity: 0;
+    }
+
+    25% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    75% {
+        opacity: 1;
     }
 }
 </style>
