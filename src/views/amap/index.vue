@@ -116,9 +116,9 @@ const createMakers = (markers) => {
         let content = defaultMarker(item);
         item.isSelect = false;
         let marker = null
-        if (item.location && item.location-lng && item.location-lat) {
+        if (item.location && item['location-lng'] && item['location-lat']) {
             marker = new AMapClass.Marker({
-                position: new AMapClass.LngLat(item.location-lng, item.location-lat),
+                position: new AMapClass.LngLat(item['location-lng'], item['location-lat']),
                 content: content,
                 anchor: 'bottom-center',
                 label: defaultLabel(item, 1),
