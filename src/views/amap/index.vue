@@ -5,6 +5,7 @@ import { getAlumniList } from '../../api/map'
 import { defaultMarker, activeMarker, defaultLabel, activeLabel } from '../../utils/map'
 import { debounce, fuzzyMatch } from '../../utils/util'
 import schoolPoint from '../../assets/img/school.png'
+import { showImagePreview } from 'vant';
 
 
 defineProps({
@@ -281,6 +282,10 @@ const changeStyle = () => {
 
 }
 
+const showBigAvatar = url => {
+    console.log(url, '??')
+    showImagePreview([url]);
+}
 const openMedia = () => {
     showCenter.value = true
 }
@@ -307,7 +312,12 @@ const openMedia = () => {
         closeable>
         <div class="alumni-card" v-if="chooseAlumni">
             <div class="avatar">
-                <img :src="`/img/${chooseAlumni.alumnisrc}`" />
+                <span @click="showBigAvatar(`/img/${chooseAlumni.alumnisrc}`)" class="avatar_pic" :style="{
+                    '--bg': `url(/img/${chooseAlumni.alumnisrc})`,
+                    '--x': `calc(50% - ${chooseAlumni['offset-x'] || '0'})`,
+                    '--y': `calc(50% - ${chooseAlumni['offset-y'] || '0'})`,
+                    '--size': `${chooseAlumni['scale'] || 'cover'}`
+                }"></span>
                 <div v-if="chooseAlumni.media" class="media-play" @click="openMedia">
                     <van-icon name="play-circle-o" />
                 </div>
@@ -526,6 +536,7 @@ const openMedia = () => {
 }
 
 @keyframes blank {
+
     0%,
     100% {
         opacity: 0;

@@ -7,7 +7,8 @@
     "signature": "我还是那个追风少年",
     "location": "上海市普陀区半岛花园",
     "location-lng": 121.435026,
-    "location-lat": 31.247178
+    "location-lat": 31.247178,
+    "offset-y": "50%"
   },
   {
     "id": 2,
@@ -17,11 +18,14 @@
     "signature": "",
     "location": "安徽省芜湖市南陵县小王家花园",
     "location-lng": 118.332174,
-    "location-lat": 30.918736
+    "location-lat": 30.918736,
+    "scale": "250%",
+    "offset-x": "8%",
+    "offset-y": "-50%"
   },
   {
     "id": 3,
-    "alumnisrc": "alumni (3).png",
+    "alumnisrc": "alumni.png",
     "name": "周  禹",
     "phone": 15905530222,
     "signature": "你比从前快乐",
@@ -31,7 +35,7 @@
   },
   {
     "id": 4,
-    "alumnisrc": "alumni (4).png",
+    "alumnisrc": "alumni.png",
     "name": "赵  鹏",
     "phone": 13866387572,
     "signature": "",
@@ -41,7 +45,7 @@
   },
   {
     "id": 5,
-    "alumnisrc": "alumni (5).png",
+    "alumnisrc": "alumni.png",
     "name": "章雪姣",
     "phone": 13605601425,
     "signature": "自己值得一切的美好",
@@ -51,7 +55,7 @@
   },
   {
     "id": 6,
-    "alumnisrc": "alumni (6).png",
+    "alumnisrc": "alumni.png",
     "name": "章国志",
     "phone": 15055799293,
     "signature": "时间带走了我的青春、却带不走我的初心",
@@ -61,7 +65,7 @@
   },
   {
     "id": 7,
-    "alumnisrc": "alumni (7).png",
+    "alumnisrc": "alumni.png",
     "name": "张大伟",
     "phone": 18909633935,
     "signature": "",
@@ -71,7 +75,7 @@
   },
   {
     "id": 8,
-    "alumnisrc": "alumni (8).png",
+    "alumnisrc": "alumni.png",
     "name": "俞晓",
     "phone": 17730313117,
     "signature": "",
@@ -81,7 +85,7 @@
   },
   {
     "id": 9,
-    "alumnisrc": "alumni (9).png",
+    "alumnisrc": "alumni.png",
     "name": "殷俊军",
     "phone": 15665530988,
     "signature": "",
@@ -91,7 +95,7 @@
   },
   {
     "id": 10,
-    "alumnisrc": "alumni (10).png",
+    "alumnisrc": "alumni.png",
     "name": "杨先兵",
     "phone": 18521536967,
     "signature": "",
@@ -101,7 +105,7 @@
   },
   {
     "id": 11,
-    "alumnisrc": "alumni (11).png",
+    "alumnisrc": "alumni.png",
     "name": "夏雯",
     "phone": 18955376622,
     "signature": "保持热爱，奔赴山海",
@@ -121,7 +125,7 @@
   },
   {
     "id": 13,
-    "alumnisrc": "alumni (13).png",
+    "alumnisrc": "alumni.png",
     "name": "吴义臣",
     "phone": 13955373132,
     "signature": "",
@@ -131,7 +135,7 @@
   },
   {
     "id": 14,
-    "alumnisrc": "alumni (14).png",
+    "alumnisrc": "alumni.png",
     "name": "吴光",
     "phone": 15105533738,
     "signature": "",
@@ -147,7 +151,10 @@
     "signature": "我还是那个追着追风少年后面的少女",
     "location": "上海市普陀区半岛花园",
     "location-lng": 121.435026,
-    "location-lat": 31.247178
+    "location-lat": 31.247178,
+    "scale": "200%",
+    "offset-x": "-12%",
+    "offset-y": "-30%"
   },
   {
     "id": 16,
@@ -161,7 +168,7 @@
   },
   {
     "id": 17,
-    "alumnisrc": "alumni (17).png",
+    "alumnisrc": "alumni.png",
     "name": "王伟峰",
     "phone": 15162302440,
     "signature": "",
@@ -171,7 +178,7 @@
   },
   {
     "id": 18,
-    "alumnisrc": "alumni (18).png",
+    "alumnisrc": "alumni.png",
     "name": "王  成",
     "phone": 15955398686,
     "signature": "",
@@ -181,7 +188,7 @@
   },
   {
     "id": 19,
-    "alumnisrc": "alumni (19).png",
+    "alumnisrc": "alumni.png",
     "name": "汪伟",
     "phone": 17755181333,
     "signature": "享受当下，展望未来",
@@ -197,7 +204,8 @@
     "signature": "按照自己的方式，去度过一生",
     "location": "上海市上海市嘉定区旭辉公元",
     "location-lng": 121.165607,
-    "location-lat": 31.317473
+    "location-lat": 31.317473,
+    "offset-y": "-20%"
   },
   {
     "id": 21,
@@ -207,7 +215,8 @@
     "signature": "",
     "location": "安徽省芜湖市南陵县东城一品",
     "location-lng": 118.352449,
-    "location-lat": 30.919788
+    "location-lat": 30.919788,
+    "offset-y": "-12%"
   },
   {
     "id": 23,
@@ -251,7 +260,7 @@
   },
   {
     "id": 27,
-    "alumnisrc": "alumni (27).png",
+    "alumnisrc": "alumni.png",
     "name": "秦  峻",
     "phone": 13548669945,
     "signature": "",
@@ -271,7 +280,7 @@
   },
   {
     "id": 29,
-    "alumnisrc": "alumni (29).png",
+    "alumnisrc": "alumni.png",
     "name": "孟浩",
     "phone": 18297983573,
     "signature": "",
@@ -287,7 +296,8 @@
     "signature": "轻收岁月温柔，自拥一隅星光",
     "location": "安徽省芜湖市弋江区澛港街道中央城C区",
     "location-lng": 118.368539,
-    "location-lat": 31.295655
+    "location-lat": 31.295655,
+    "offset-y": "-4%"
   },
   {
     "id": 31,
@@ -321,7 +331,7 @@
   },
   {
     "id": 35,
-    "alumnisrc": "alumni (35).png",
+    "alumnisrc": "alumni.png",
     "name": "黄  文",
     "phone": 13917515740,
     "signature": "",
@@ -337,7 +347,8 @@
     "signature": "一起来听NEW BOY（房猫版）",
     "location": "北京市顺义区鲁能7号院颐景溪园",
     "location-lng": 116.665838,
-    "location-lat": 40.184069
+    "location-lat": 40.184069,
+    "offset-y": "20%"
   },
   {
     "id": 37,
@@ -367,7 +378,8 @@
     "signature": "",
     "location": "安徽省芜湖市南陵县籍山镇蔚蓝世纪",
     "location-lng": 118.328864,
-    "location-lat": 30.905328
+    "location-lat": 30.905328,
+    "offset-y": "15%"
   },
   {
     "id": 40,
@@ -377,6 +389,7 @@
     "signature": "",
     "location": "安徽省芜湖市鸠江区伟星公园大道一号",
     "location-lng": 118.420155,
-    "location-lat": 31.346519
+    "location-lat": 31.346519,
+    "offset-x": "-30%"
   }
 ]

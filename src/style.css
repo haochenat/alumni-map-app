@@ -64,6 +64,22 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+.avatar_pic {
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+  padding: 5px;
+  border-radius: 50%;
+  background-position-x: var(--x);
+  background-position-y: var(--y);
+  background-image: var(--bg);
+  background-size: var(--size);
+  display: inline-block;
+}
+.van-image-preview__index {
+  display: none;
+}
+
 .card {
   padding: 2em;
 }

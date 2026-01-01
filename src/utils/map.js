@@ -2,14 +2,22 @@ import avatarFrame from '../assets/img/avatar-frame.png'
 
 export const defaultMarker = (info) => {
   return `<span class="marker">
-            <img class="avatar" src='/img/${info.alumnisrc}'/>
+            <span class="avatar_pic" style="
+              --bg: url(/img/${info.alumnisrc});
+              --size:${info['scale'] || 'cover'};
+              --x:calc(50% - ${info['offset-x'] || '0'});
+              --y:calc(50% - ${info['offset-y'] || '0'});"></span>
             <img class="frame" src='${avatarFrame}'/>
           </span>`;
 }
 
 export const activeMarker = (info) => {
   return `<span class="marker play_drop">
-            <img class="avatar" src='/img/${info.alumnisrc}'/>
+            <span class="avatar_pic" style="
+              --bg: url(/img/${info.alumnisrc});
+              --size:${info['scale'] || 'cover'};
+              --x:calc(50% - ${info['offset-x'] || '0'});
+              --y:calc(50% - ${info['offset-y'] || '0'});"></span>
             <img class="frame" src='${avatarFrame}'/>
           </span>`;
 }
