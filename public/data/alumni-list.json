@@ -392,5 +392,15 @@
     "location-lng": 118.420155,
     "location-lat": 31.346519,
     "offset-x": "-30%"
+  },
+  {
+    "id": 41,
+    "alumnisrc": "wenxinglong.jpg",
+    "name": "班主任文老师",
+    "phone": 18715308356,
+    "signature": "预祝20周年聚会顺利举办.给同学们点赞.",
+    "location": "安徽省芜湖市鸠江区伟星公园大道一号",
+    "location-lng": 118.343475,
+    "location-lat": 30.92219
   }
 ]
