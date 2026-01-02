@@ -6,7 +6,7 @@
     "phone": 15002131110,
     "signature": "我还是那个追风少年",
     "location": "上海市普陀区半岛花园",
-    "location-lng": 121.435026,
+    "location-lng": 121.439026,
     "location-lat": 31.247179,
     "offset-y": "50%"
   },
@@ -35,7 +35,7 @@
   },
   {
     "id": 4,
-    "alumnisrc": "zhaopeng.png",
+    "alumnisrc": "zhaopeng.jpg",
     "name": "赵  鹏",
     "phone": 13866387572,
     "signature": "",
@@ -188,7 +188,7 @@
   },
   {
     "id": 19,
-    "alumnisrc": "wangwei.png",
+    "alumnisrc": "wangwei.jpg",
     "name": "汪伟",
     "phone": 17755181333,
     "signature": "享受当下，展望未来",
@@ -295,7 +295,7 @@
     "phone": 18505539799,
     "signature": "轻收岁月温柔，自拥一隅星光",
     "location": "安徽省芜湖市弋江区澛港街道中央城C区",
-    "location-lng": 118.368539,
+    "location-lng": 118.372539,
     "location-lat": 31.295656,
     "offset-y": "-4%"
   },
