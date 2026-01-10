@@ -25,7 +25,7 @@
   },
   {
     "id": 3,
-    "alumnisrc": "alumni.png",
+    "alumnisrc": "zhouyu.jpg",
     "name": "周  禹",
     "phone": 15905530222,
     "signature": "你比从前快乐",
@@ -46,7 +46,7 @@
   },
   {
     "id": 5,
-    "alumnisrc": "alumni.png",
+    "alumnisrc": "zhangxuejiao.jpg",
     "name": "章雪姣",
     "phone": 13605601425,
     "signature": "自己值得一切的美好",
@@ -56,13 +56,14 @@
   },
   {
     "id": 6,
-    "alumnisrc": "alumni.png",
+    "alumnisrc": "zhangguozhi.jpg",
     "name": "章国志",
     "phone": 15055799293,
     "signature": "时间带走了我的青春、却带不走我的初心",
     "location": "安徽省芜湖市长江之歌",
     "location-lng": 118.36403,
-    "location-lat": 31.30452
+    "location-lat": 31.30452,
+    "offset-y": "0%"
   },
   {
     "id": 7,
@@ -76,17 +77,18 @@
   },
   {
     "id": 8,
-    "alumnisrc": "alumni.png",
+    "alumnisrc": "yuxiao.jpg",
     "name": "俞晓",
     "phone": 17730313117,
     "signature": "",
     "location": "安徽省芜湖市中央城C区",
     "location-lng": 118.368539,
-    "location-lat": 31.295655
+    "location-lat": 31.295655,
+    "offset-y": "0%"
   },
   {
     "id": 9,
-    "alumnisrc": "alumni.png",
+    "alumnisrc": "yinjunjun.jpg",
     "name": "殷俊军",
     "phone": 15665530988,
     "signature": "",
@@ -96,7 +98,7 @@
   },
   {
     "id": 10,
-    "alumnisrc": "alumni.png",
+    "alumnisrc": "yangxianbing.jpg",
     "name": "杨先兵",
     "phone": 18521536967,
     "signature": "",
@@ -106,7 +108,7 @@
   },
   {
     "id": 11,
-    "alumnisrc": "alumni.png",
+    "alumnisrc": "xiawen.jpg",
     "name": "夏雯",
     "phone": 18955376622,
     "signature": "保持热爱，奔赴山海",
@@ -126,17 +128,18 @@
   },
   {
     "id": 13,
-    "alumnisrc": "alumni.png",
+    "alumnisrc": "wuyichen.jpg",
     "name": "吴义臣",
     "phone": 13955373132,
     "signature": "",
     "location": "安徽芜湖芜湖市金色水岸",
     "location-lng": 118.37995,
-    "location-lat": 31.361051
+    "location-lat": 31.361051,
+    "offset-y": "-30%"
   },
   {
     "id": 14,
-    "alumnisrc": "alumni.png",
+    "alumnisrc": "wuguang.jpg",
     "name": "吴光",
     "phone": 15105533738,
     "signature": "",
@@ -169,7 +172,7 @@
   },
   {
     "id": 17,
-    "alumnisrc": "alumni.png",
+    "alumnisrc": "wangweifeng.jpg",
     "name": "王伟峰",
     "phone": 15162302440,
     "signature": "",
@@ -261,13 +264,14 @@
   },
   {
     "id": 27,
-    "alumnisrc": "alumni.png",
+    "alumnisrc": "qinjun.jpg",
     "name": "秦  峻",
     "phone": 13548669945,
     "signature": "",
     "location": "新疆维吾尔自治区乌鲁木齐市弋江区沙依巴克区长江路482号",
     "location-lng": 87.598043,
-    "location-lat": 43.800994
+    "location-lat": 43.800994,
+    "offset-y": "0%"
   },
   {
     "id": 28,
@@ -281,13 +285,14 @@
   },
   {
     "id": 29,
-    "alumnisrc": "alumni.png",
+    "alumnisrc": "menghao.jpg",
     "name": "孟浩",
     "phone": 18297983573,
     "signature": "",
     "location": "安徽省合肥市蜀山别院",
     "location-lng": 117.16071,
-    "location-lat": 31.828626
+    "location-lat": 31.828626,
+    "offset-y": "0%"
   },
   {
     "id": 30,
@@ -332,7 +337,7 @@
   },
   {
     "id": 35,
-    "alumnisrc": "alumni.png",
+    "alumnisrc": "huangwen.jpg",
     "name": "黄  文",
     "phone": 13917515740,
     "signature": "",

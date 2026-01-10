@@ -283,7 +283,6 @@ const changeStyle = () => {
 }
 
 const showBigAvatar = url => {
-    console.log(url, '??')
     showImagePreview([url]);
 }
 const openMedia = () => {
